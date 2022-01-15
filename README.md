@@ -1,2 +1,2 @@
 # GraphTheoryAlgorithms_Python
-Graph Theory and DS in python
+Graph Theory algorithms and DS implemented in Python based on William Fiest lectures on youtube/Udemy
